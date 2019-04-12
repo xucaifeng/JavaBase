@@ -4,7 +4,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * 
- * @desc   
+ * @desc   synchronized 锁加在对象上
  * @author Caifeng Xu
  * @time   2019年3月27日
  */
