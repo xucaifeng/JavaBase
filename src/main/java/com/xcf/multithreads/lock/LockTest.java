@@ -1,5 +1,11 @@
 package com.xcf.multithreads.lock;
 
+/**
+ * 
+ * @desc   不可重入锁测试类
+ * @author Caifeng Xu
+ * @time   2019年4月12日
+ */
 public class LockTest {
 
 	Lock lock = new Lock();
