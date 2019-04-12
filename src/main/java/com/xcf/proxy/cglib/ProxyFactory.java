@@ -6,6 +6,12 @@ import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
 
+/**
+ * 
+ * @desc   cglib 实现动态代理
+ * @author Caifeng Xu
+ * @time   2019年4月12日
+ */
 public class ProxyFactory implements MethodInterceptor {
 	
 	
