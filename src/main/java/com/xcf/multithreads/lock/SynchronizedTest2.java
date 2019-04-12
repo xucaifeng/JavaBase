@@ -6,7 +6,7 @@ import java.util.concurrent.CountDownLatch;
  * 
  * @desc   synchronized 锁加在对象上
  * @author Caifeng Xu
- * @time   2019年3月27日
+ * @time   2019年3月26日
  */
 public class SynchronizedTest2 {
 	
